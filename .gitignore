@@ -4,10 +4,11 @@
 node_modules
 /.pnp
 .pnp.js
-
+.gitignore
 # testing
 /coverage
-
+.env
+.env.local.example
 # next.js
 /.next/
 /out/
